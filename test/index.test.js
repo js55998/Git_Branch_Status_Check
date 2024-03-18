@@ -6,7 +6,7 @@ describe("isEven", () => {
     });
 
     test("returns false if number is odd", () => {
-        expect(isEven(3)).toBe(true);
+        expect(isEven(3)).toBe(false);
     });
 
     test("throws an error if number is negative", () => {
