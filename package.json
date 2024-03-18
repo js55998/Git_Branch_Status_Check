@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/js55998/Git_Branch_Status_Check#readme",
   "dependencies": {
+    "axios": "^1.6.8",
     "jest": "^29.7.0"
   }
 }
