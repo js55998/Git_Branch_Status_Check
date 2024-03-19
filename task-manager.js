@@ -4,7 +4,7 @@ function addTask(task) {
     tasks.push(
         {
             task,
-            completed: false
+            completed: true
         }
     );
 }
